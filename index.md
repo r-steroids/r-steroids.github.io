@@ -2,24 +2,22 @@
 
 The r/steroids Wiki provides a unique and comprehensive compendium of knowledge on anabolic steroids, as well as specifics about our community, r/steroids, which is the largest steroid community in the English-speaking world. 
 
-[View the traffic statistics](http://www.reddit.com/r/steroids/about/traffic/) or [growth tracking](http://redditmetrics.com/r/steroids) for r/steroids at any time.
-
-### Please Read The [Community Goals, Responsibility, & Rules](/index/subreddit_rules.md) prior to posting or participation.
+*Please Read The [Community Goals, Responsibility, & Rules](/index/subreddit_rules.md) prior to posting or participation.*
 
 ## Critical Thinking
 
-Participation in this sub and with this habit requires one to execute [critical thinking](/critical_thinking.md) very well, to determine truth from falsehood. Practice daily for best results.
+Getting involved in r/steroids and with AAS requires [critical thinking](/critical_thinking.md) to determine truth from falsehood. Practice daily for best results.
 
 ## Table of Contents
 
-* [**The Community**](/index/subreddit_rules.md)
-* [**Overview / Index (This Page)**](/index.md)
+### [**The Community**](/index/subreddit_rules.md)
+### [**Overview / Index (This Page)**](/index.md)
   * [Frequently Asked Questions (FAQ)](/faq/list.md)
   * [Medicinal Uses](/medicinal/list.md)
   * [Testosterone Replacement Therapy (TRT)](/trt/list.md)
   * [AAS And The Law](/laws.md)
   * [Talking Points](/talkingpoints.md)
-* [**Cycle - Things To Know**](/thecycle/list.md)
+### [**Cycle - Things To Know**](/thecycle/list.md)
   * [Your First Cycle](/your_first_cycle.md)
   * [Example Cycles](/thecycle/examples.md)
   * [Safe Injections](/thecycle/injecting.md)
@@ -28,7 +26,7 @@ Participation in this sub and with this habit requires one to execute [critical 
   * [Cycle Reports](/reports/list.md)
   * [Nutrition](/nutrition.md)
   * [Women](/women.md)
-* [**Compound Profiles**](/compounds/list.md)
+### [**Compound Profiles**](/compounds/list.md)
   * [Hepatotoxicity & Liver Protection](/hepatotoxicity.md)
   * [Ancillaries](/compounds/ancillaries.md)
   * [Homebrewing](/homebrew/list.md)
@@ -37,7 +35,7 @@ Participation in this sub and with this habit requires one to execute [critical 
   * [Human Growth Hormone (HGH)](/growth_hormone.md)
   * [Peptides](/compounds/peptides.md)
   * [Compound Experience Directory](/compound_experience_threads.md)
-* [**Blood Work**](/bloodwork/list.md)
+### [**Blood Work**](/bloodwork/list.md)
   * [Health Markers Defined](/bloodwork/health_markers.md)
 
 ## Helpful Links
