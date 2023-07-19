@@ -84,8 +84,8 @@ Getting involved in r/steroids and with AAS requires [critical thinking](/critic
 
 ## AAS Related Acronyms
 
-|Acronym  |Meaning|Notes|
-|:-|:-|:-|
+| &nbsp;Acronym&nbsp; | &nbsp;Meaning&nbsp; | &nbsp;Notes&nbsp; |
+|:--------|:--------|:------|
 |**X/X/Y/Y**|Week 1 daily dose/Week 2 daily dose/Week 3 daily dose/Week 4 daily dose.|*Example:* 40/40/20/20 = 40mg per day for week 1, 40mg per day for week 2, 20mg per day for week 3, 20mg per day for week 4. Used in reference to Nolva, Clomid, or Torem PCT.|
 |**AAS**|Anabolic-Androgenic Steroids||
 |**Adrol**|Anadrol||
