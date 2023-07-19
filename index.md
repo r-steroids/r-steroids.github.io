@@ -11,12 +11,14 @@ Getting involved in r/steroids and with AAS requires [critical thinking](/critic
 ## Table of Contents
 
 ### [**The Community**](/index/subreddit_rules.md)
+
 ### [**Overview / Index (This Page)**](/index.md)
   * [Frequently Asked Questions (FAQ)](/faq/list.md)
   * [Medicinal Uses](/medicinal/list.md)
   * [Testosterone Replacement Therapy (TRT)](/trt/list.md)
   * [AAS And The Law](/laws.md)
   * [Talking Points](/talkingpoints.md)
+
 ### [**Cycle - Things To Know**](/thecycle/list.md)
   * [Your First Cycle](/your_first_cycle.md)
   * [Example Cycles](/thecycle/examples.md)
@@ -26,6 +28,7 @@ Getting involved in r/steroids and with AAS requires [critical thinking](/critic
   * [Cycle Reports](/reports/list.md)
   * [Nutrition](/nutrition.md)
   * [Women](/women.md)
+
 ### [**Compound Profiles**](/compounds/list.md)
   * [Hepatotoxicity & Liver Protection](/hepatotoxicity.md)
   * [Ancillaries](/compounds/ancillaries.md)
@@ -35,6 +38,7 @@ Getting involved in r/steroids and with AAS requires [critical thinking](/critic
   * [Human Growth Hormone (HGH)](/growth_hormone.md)
   * [Peptides](/compounds/peptides.md)
   * [Compound Experience Directory](/compound_experience_threads.md)
+
 ### [**Blood Work**](/bloodwork/list.md)
   * [Health Markers Defined](/bloodwork/health_markers.md)
 
