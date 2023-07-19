@@ -3,3 +3,4 @@ email: JuiceLoosener@protonmail.com
 
 # Build settings
 markdown: kramdown
+theme: minimal
