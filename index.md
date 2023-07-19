@@ -4,7 +4,7 @@ The r/steroids Wiki provides a unique and comprehensive compendium of knowledge 
 
 [View the traffic statistics](http://www.reddit.com/r/steroids/about/traffic/) or [growth tracking](http://redditmetrics.com/r/steroids) for r/steroids at any time.
 
-## Please Read The [Community Goals, Responsibility, & Rules](/index/subreddit_rules.md) prior to posting or participation.
+### Please Read The [Community Goals, Responsibility, & Rules](/index/subreddit_rules.md) prior to posting or participation.
 
 ## Critical Thinking
 
@@ -13,32 +13,32 @@ Participation in this sub and with this habit requires one to execute [critical 
 #🎗TABLE OF CONTENTS
 
 * [**The Community**](/index/subreddit_rules.md)
-* [**Overview / Index** (This Page)](/index.md)
-* [|--- Frequently Asked Questions (FAQ)](/faq/list.md)
-* [|--- Medicinal Uses](/medicinal/list.md)
-* [|--- Testosterone Replacement Therapy (TRT)](/trt/list.md)
-* [|--- AAS And The Law](/laws.md)
-* [|--- Talking Points](/talkingpoints.md)
+* [**Overview / Index (This Page)**](/index.md)
+  * [Frequently Asked Questions (FAQ)](/faq/list.md)
+  * [Medicinal Uses](/medicinal/list.md)
+  * [Testosterone Replacement Therapy (TRT)](/trt/list.md)
+  * [AAS And The Law](/laws.md)
+  * [Talking Points](/talkingpoints.md)
 * [**Cycle - Things To Know**](/thecycle/list.md)
-* [|--- Your First Cycle](/your_first_cycle.md)
-* [|--- Example Cycles](/thecycle/examples.md)
-* [|--- Safe Injections](/thecycle/injecting.md)
-* [|--- Post Cycle Therapy (PCT)](/thecycle/pct.md)
-* [|--- The Estrogen Handbook](/the_estrogen_handbook.md)
-* [|--- Cycle Reports](/reports/list.md)
-* [|--- Nutrition](/nutrition.md)
-* [|--- Women](/women.md)
+  * [Your First Cycle](/your_first_cycle.md)
+  * [Example Cycles](/thecycle/examples.md)
+  * [Safe Injections](/thecycle/injecting.md)
+  * [Post Cycle Therapy (PCT)](/thecycle/pct.md)
+  * [The Estrogen Handbook](/the_estrogen_handbook.md)
+  * [Cycle Reports](/reports/list.md)
+  * [Nutrition](/nutrition.md)
+  * [Women](/women.md)
 * [**Compound Profiles**](/compounds/list.md)
-* [|--- Hepatotoxicity & Liver Protection](/hepatotoxicity.md)
-* [|--- Ancillaries](/compounds/ancillaries.md)
-* [|--- Homebrewing](/homebrew/list.md)
-* [|--- Esters](/compounds/esters.md)
-* [|--- Side Effects & Solutions](/sides/list.md)
-* [|--- Human Growth Hormone (HGH)](/growth_hormone.md)
-* [|--- Peptides](/compounds/peptides.md)
-* [|--- Compound Experience Directory](/compound_experience_threads.md)
+  * [Hepatotoxicity & Liver Protection](/hepatotoxicity.md)
+  * [Ancillaries](/compounds/ancillaries.md)
+  * [Homebrewing](/homebrew/list.md)
+  * [Esters](/compounds/esters.md)
+  * [Side Effects & Solutions](/sides/list.md)
+  * [Human Growth Hormone (HGH)](/growth_hormone.md)
+  * [Peptides](/compounds/peptides.md)
+  * [Compound Experience Directory](/compound_experience_threads.md)
 * [**Blood Work**](/bloodwork/list.md)
-* [|--- Health Markers Defined](/bloodwork/health_markers.md)
+  * [Health Markers Defined](/bloodwork/health_markers.md)
 
 ## Helpful Links
 
@@ -189,11 +189,9 @@ See *[Additional Sides](/sides/list.md)*
 
 There are generally considered to be three mechanisms of action of AAS.
 
-**1**. By binding to the androgen receptor located in the cytoplasm, AAS stimulate protein synthesis in the muscle. 
-
-**2**. AAS bind to the glucocorticoid receptor, blocking the catabolic actions of cortisol on muscle (protein breakdown). 
-
-**3**. Psychological effects include increased motivation and aggression, leading to increased training intensity.
+1. By binding to the androgen receptor located in the cytoplasm, AAS stimulate protein synthesis in the muscle. 
+2. AAS bind to the glucocorticoid receptor, blocking the catabolic actions of cortisol on muscle (protein breakdown).
+3. Psychological effects include increased motivation and aggression, leading to increased training intensity.
 
 See *[Pharmacology of AAS](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2439524/).*
 
