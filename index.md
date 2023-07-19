@@ -49,40 +49,38 @@ Getting involved in r/steroids and with AAS requires [critical thinking](/critic
 
 ## AAS Related Reading
 
-The following material is presented on topics related to /r/steroids for educational purposes.
-
 ### Books and Publications
 
-1. [ANABOLICS, 10th edition, William Llewellyn](https://drive.google.com/file/d/19h7C0O_pGMXWeC8TCg5Ittg2-I-Hj2th/view?usp=sharing)
-2. [A Compilation of Anabolic and Nutritional Supplements Steroids](http://www.scribd.com/doc/174111625/Cooking-Bodybuilding-a-Compilation-of-Anabolic-and-Nutritional-Supplements-Steroids)
-3. [Underground Steroids Handbook II](http://www.anasci.org/ebooks/USH%20II.pdf), Daniel Duchaine
-4. *The Endocrine Society's Clinical Guide: Testosterone Therapy in Adult Men with Androgen Deficiency Syndrome*. ( [Scribd](http://www.scribd.com/doc/197094136/FINAL-Androgens-in-Men-Standalone) )
-5. *Why are Steroids Illegal in the USA?* ([Scribd](http://www.scribd.com/doc/197091803/Steroid-Legality))
-6. *Testosterone: Action, Deficiency, Substitution*, 3rd Edition (pp. 405-444). Cambridge University Press,  New York.Behre H.M., Nieschlag E., (2004).  
-7.  [More](/reading.md) (Page under revision - links to publications are broken)
+* [ANABOLICS, 10th edition, William Llewellyn](https://drive.google.com/file/d/19h7C0O_pGMXWeC8TCg5Ittg2-I-Hj2th/view?usp=sharing)
+* [A Compilation of Anabolic and Nutritional Supplements Steroids](http://www.scribd.com/doc/174111625/Cooking-Bodybuilding-a-Compilation-of-Anabolic-and-Nutritional-Supplements-Steroids)
+* [Underground Steroids Handbook II](http://www.anasci.org/ebooks/USH%20II.pdf), Daniel Duchaine
+* *The Endocrine Society's Clinical Guide: Testosterone Therapy in Adult Men with Androgen Deficiency Syndrome*. ( [Scribd](http://www.scribd.com/doc/197094136/FINAL-Androgens-in-Men-Standalone) )
+* *Why are Steroids Illegal in the USA?* ([Scribd](http://www.scribd.com/doc/197091803/Steroid-Legality))
+* *Testosterone: Action, Deficiency, Substitution*, 3rd Edition (pp. 405-444). Cambridge University Press,  New York.Behre H.M., Nieschlag E., (2004).  
+*  [More](/reading.md) (Page under revision - links to publications are broken)
 
 ### Original Stories
 
-1. [A Pin Story](/r/steroids/comments/1jbp8l/long_a_pin_story/)
-2. [The Rage Story](/r/steroids/comments/1n3jsv/long_the_rage_story/)
-3. [Massive Attack](/r/steroids/comments/1nrnhh/long_massive_attack_writer_chuck_palahniuk_on_his/)
-4. [The Signal Story](/r/steroids/comments/1xcejh/the_signal_story/)
-5. [The Loss Story](/r/steroids/comments/27o9lo/long_the_loss_story/)
-6. [The Dirty Bulk Story](/r/steroids/comments/29335f/long_the_dirty_bulk_story_dave_tate/) ([video](https://www.youtube.com/watch?v=vBE9s8ZpU88))
-7. [The Pituitary Story](/r/steroids/comments/3ab09l/long_the_pituitary/)
-8. [You Wanna Be A Freak?](https://www.reddit.com/r/steroids/comments/31l2th/contest_prep_tren_anxiety/cq2uu44/)
+* [A Pin Story](/r/steroids/comments/1jbp8l/long_a_pin_story/)
+* [The Rage Story](/r/steroids/comments/1n3jsv/long_the_rage_story/)
+* [Massive Attack](/r/steroids/comments/1nrnhh/long_massive_attack_writer_chuck_palahniuk_on_his/)
+* [The Signal Story](/r/steroids/comments/1xcejh/the_signal_story/)
+* [The Loss Story](/r/steroids/comments/27o9lo/long_the_loss_story/)
+* [The Dirty Bulk Story](/r/steroids/comments/29335f/long_the_dirty_bulk_story_dave_tate/) ([video](https://www.youtube.com/watch?v=vBE9s8ZpU88))
+* [The Pituitary Story](/r/steroids/comments/3ab09l/long_the_pituitary/)
+* [You Wanna Be A Freak?](https://www.reddit.com/r/steroids/comments/31l2th/contest_prep_tren_anxiety/cq2uu44/)
 
 ### Hall of Shame
 
-1. [First Tren Cycle](https://www.reddit.com/r/steroids/comments/4u7mwg/aftermath_of_16_week_tren_cycle/)
-2. [Abuse of DNP](https://www.reddit.com/r/steroids/comments/tx295g/psa_dnp_terrifying_experience_with_only_200mgd_no/?ref=share&ref_source=link)
-3. [Wasted First Cycle Cutting](https://www.reddit.com/r/steroids/comments/uywmcq/cycle_report_1st_test_cycle_thoughts_opinions/)
-4. [YEARS OF BLAST N CRUISE](https://www.unddit.com/r/steroids/comments/xdakg0/cycle_2_years_of_blast_n_cruise/)
-5. [Teen tren abuse](https://www.reddit.com/r/steroids/comments/zsr5ah/cycle_18m_300_mgml_tri_tren_blend/?utm_source=share&utm_medium=web2x&context=3)
+* [First Tren Cycle](https://www.reddit.com/r/steroids/comments/4u7mwg/aftermath_of_16_week_tren_cycle/)
+* [Abuse of DNP](https://www.reddit.com/r/steroids/comments/tx295g/psa_dnp_terrifying_experience_with_only_200mgd_no/?ref=share&ref_source=link)
+* [Wasted First Cycle Cutting](https://www.reddit.com/r/steroids/comments/uywmcq/cycle_report_1st_test_cycle_thoughts_opinions/)
+* [YEARS OF BLAST N CRUISE](https://www.unddit.com/r/steroids/comments/xdakg0/cycle_2_years_of_blast_n_cruise/)
+* [Teen tren abuse](https://www.reddit.com/r/steroids/comments/zsr5ah/cycle_18m_300_mgml_tri_tren_blend/?utm_source=share&utm_medium=web2x&context=3)
 
 ## AAS Related Acronyms
 
-|Acronym|Meaning|Notes|
+|Acronym  |Meaning|Notes|
 |:-|:-|:-|
 |**X/X/Y/Y**|Week 1 daily dose/Week 2 daily dose/Week 3 daily dose/Week 4 daily dose.|*Example:* 40/40/20/20 = 40mg per day for week 1, 40mg per day for week 2, 20mg per day for week 3, 20mg per day for week 4. Used in reference to Nolva, Clomid, or Torem PCT.|
 |**AAS**|Anabolic-Androgenic Steroids||
@@ -136,26 +134,26 @@ The following material is presented on topics related to /r/steroids for educati
 The community enjoys progress pictures. If you're going to post progress pictures, here is what we like to see.
 
 * Use [imgur.com](https://imgur.com/) or another anonymous photosharing website of your preference
-* Head-to-toe pics are preferred to specific body part pics—unless it's relevant to some other discussion.
-* The greatest amount of muscle possible should be shown—always with pump, always flexed.
+* Head-to-toe pics are preferred to specific body part pics unless it's relevant to some other discussion.
+* The greatest amount of muscle possible should be shown-always with pump, always flexed.
 * Adding "/r/steroids" somewhere on the pic helps to avoid fake claims or reposts from elsewhere.
-* Rule #4 is enforced prodigiously on progress picture posts. **No doxxing**.
+* Rule #4 is enforced aggressively on progress picture posts. **No doxxing**.
 * Add information about your latest cycle, training and eating so as to help educate the community.
 
 ### Sharing Files to /r/steroids
 
-On occasion there are files that one would like to share with others.  In order to facilitate clean anonymous sharing, please do the following:
+In order to facilitate safe, anonymous file sharing, please:
 
-* Use [file.io](https://www.file.io/) as it will keep files anonymous.
-* Make sure to scrub any identifying information from the files.
+* Scrub any identifying information from the files
+* Use [file.io](https://www.file.io/) to host the file anonymously
 
 ## What Are Steroids?
 
-The term “steroids” refers to a *class of hormones with a classic polyphenol ring structure that are derived from the cholesterol molecul**. There are two types of steroids. They are often confused: **Anabolic** and **Catabolic**. These two steroids serve different medical purposes.
+The term "steroids" refers to a *class of hormones with a classic polyphenol ring structure that are derived from the cholesterol molecule*. There are two types of steroids that are often confused: **Anabolic** and **Catabolic**. These two steroids serve different medical purposes.
 
 ### Catabolic Steroids (Glucocorticoids)
 
-A group of steroid hormones produced in the adrenal cortex or made synthetically. They have various metabolic functions and are used to treat inflammation.
+Catabolic steroids (also commonly referred to as glucocorticoids or corticosteroids) are a group of steroid hormones produced in the adrenal cortex or made synthetically. They have various metabolic functions and are used to treat systemic inflammation.
 
 **Glucocorticoids are utilized to treat:**
 
@@ -167,9 +165,9 @@ A group of steroid hormones produced in the adrenal cortex or made synthetically
 
 Side effects of glucocorticoids can include fat gain (particularly trunk), muscle atrophy, weakened bones, and cataracts.
 
-### Anabolic Steroids (AAS)
+### Anabolic-Androgenic Steroids (AAS)
 
-A synthetic steroid hormone that resembles Testosterone in promoting the growth of muscle. Such hormones are used medicinally to treat some forms of weight loss and by some athletes and others to enhance physical performance. The proper term for these compounds is Anabolic-Androgenic Steroids (AAS).
+Anabolic steroids (more formally anabolic-androgenic steroids, or AAS) are synthetic steroid hormone that resemble testosterone and promote the growth of muscle tissue. Such hormones are used medicinally to treat some forms of weight loss and by some athletes and others to enhance physical performance.
 
 **Use of anabolic steroids can have side effects including:**
 
