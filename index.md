@@ -84,52 +84,52 @@ Getting involved in r/steroids and with AAS requires [critical thinking](/critic
 
 ## AAS Related Acronyms
 
-| &nbsp;Acronym&nbsp; | &nbsp;Meaning&nbsp; | &nbsp;Notes&nbsp; |
-|:--------|:--------|:------|
-|**X/X/Y/Y**|Week 1 daily dose/Week 2 daily dose/Week 3 daily dose/Week 4 daily dose.|*Example:* 40/40/20/20 = 40mg per day for week 1, 40mg per day for week 2, 20mg per day for week 3, 20mg per day for week 4. Used in reference to Nolva, Clomid, or Torem PCT.|
-|**AAS**|Anabolic-Androgenic Steroids||
-|**Adrol**|Anadrol||
-|**AI**|Aromatase Inhibitor|compounds that stop Gyno|
-|**ALT**|Alanine transaminase|An enzyme found in the highest amounts in the liver. Injury to the liver results in release of the substance into the blood.|
-|**AST**|Aspartate Aminotransferase|Low levels of AST are normally found in the blood. When body tissue or an organ such as the heart or liver is diseased or damaged, additional AST is released into the bloodstream. The amount of AST in the blood is directly related to the extent of the tissue damage.|
-|**B&C**|Blast and Cruise|Alternating between a bulk cycle with high AAS use and a TRT cruise.|
-|**BMR**|Base Metabolic Rate||
-|**Dbol**|Dianabol||
-|**Deca**|Deca Durabolin (Nandrolone Decanoate)||
-|**DMZ**|Dymethazine||
-|**DOMS**|Delayed Onset Muscle Soreness|When your muscles get sore 2-3 days after exercising|
-|**ED**|Every Day||
-|**EOD**|Every Other Day||
-|**E#D**|Every "#" Days.|E3D = Every 3 Days: Take, skip two days, take.|
-|**Epi**|Epistane||
-|**EQ**|Equipoise (Boldenone Undecylenate)||
-|**FSH**|Follicle-stimulating hormone||
-|**Gear**|Anabolic steroids or other things that are used during a cycle||
-|**GH**|Growth Hormone||
-|**Gyno**|Gynecomastia|Side effect resulting from increased prolactin and/or estrogen production|
-|**Halo**|Halotestin||
-|**HCG**|Human Chorionic Gonadotropin|Luteinizing Hormone provided to facilitate production of testosterone by gonads. Standard Dose: 250 IU EOD|
-|**HGH**|Human Growth Hormone||
-|**hMG**|Human Menopausal Gonadotropin|Luteinizing hormone and Follicle-stimulating hormone to facilitate the production of testosterone and spermatozoa by the gonads|
-|**HRT**|Hormone Replacement Therapy||
-|**IM**|Intra-muscular injection|An injection that goes into the muscle tissue|
-|**LH**|Luteinizing hormone||
-|**Mast**|Masteron||
-|**PCT**|Post Cycle Therapy|The method to recover from an AAS cycle.|
-|**Pins**|Syringes / Needles||
-|**PIP**|Post Injection Pain|Pain felt in the area of an injection|
-|**RC**|Research Chemical|Drugs made for "research" purposes, very often highly underdosed|
-|**Subq**|Subcutaneous Injection|An injection that goes into the fatty tissue|
-|**Sust**|Sustanon||
-|**Sdrol**|Superdrol||
-|**Tbol**|Oral Turinabol||
-|**TDEE**|Total Daily Energy Expenditure|The average amount of energy you need to do your daily activities|
-|**Test**|Testosterone||
-|**Tren**|Trenbolone||
-|**TRT**|Testosterone Replacement Therapy|Using exogenous Test to mimic natural production levels|
-|**Var**|Anavar||
-|**VG**|Ventro Glute|A very common muscle in which to inject|
-|**Winny**|Winstrol||
+| Acronym   | Meaning   | Notes   |
+| :-------- | :-------- | :------ |
+| **X/X/Y/Y** | Week 1 daily dose/Week 2 daily dose/Week 3 daily dose/Week 4 daily dose. | *Example:* 40/40/20/20 = 40mg per day for week 1, 40mg per day for week 2, 20mg per day for week 3, 20mg per day for week 4. Used in reference to Nolva, Clomid, or Torem PCT. |
+| **AAS** | Anabolic-Androgenic Steroids |  |
+| **Adrol** | Anadrol |  |
+| **AI** | Aromatase Inhibitor | compounds that stop Gyno |
+| **ALT** | Alanine transaminase | An enzyme found in the highest amounts in the liver. Injury to the liver results in release of the substance into the blood. |
+| **AST** | Aspartate Aminotransferase | Low levels of AST are normally found in the blood. When body tissue or an organ such as the heart or liver is diseased or damaged, additional AST is released into the bloodstream. The amount of AST in the blood is directly related to the extent of the tissue damage. |
+| **B&C** | Blast and Cruise | Alternating between a bulk cycle with high AAS use and a TRT cruise. |
+| **BMR** | Base Metabolic Rate |  |
+| **Dbol** | Dianabol |  |
+| **Deca** | Deca Durabolin (Nandrolone Decanoate) |  |
+| **DMZ** | Dymethazine |  |
+| **DOMS** | Delayed Onset Muscle Soreness | When your muscles get sore 2-3 days after exercising |
+| **ED** | Every Day |  |
+| **EOD** | Every Other Day |  |
+| **E#D** | Every "#" Days. | E3D = Every 3 Days: Take, skip two days, take. |
+| **Epi** | Epistane |  |
+| **EQ** | Equipoise (Boldenone Undecylenate) |  |
+| **FSH** | Follicle-stimulating hormone |  |
+| **Gear** | Anabolic steroids or other things that are used during a cycle |  |
+| **GH** | Growth Hormone |  |
+| **Gyno** | Gynecomastia | Side effect resulting from increased prolactin and/or estrogen production |
+| **Halo** | Halotestin |  |
+| **HCG** | Human Chorionic Gonadotropin | Luteinizing Hormone provided to facilitate production of testosterone by gonads. Standard Dose: 250 IU EOD |
+| **HGH** | Human Growth Hormone |  |
+| **hMG** | Human Menopausal Gonadotropin | Luteinizing hormone and Follicle-stimulating hormone to facilitate the production of testosterone and spermatozoa by the gonads |
+| **HRT** | Hormone Replacement Therapy |  |
+| **IM** | Intra-muscular injection | An injection that goes into the muscle tissue |
+| **LH** | Luteinizing hormone |  |
+| **Mast** | Masteron |  |
+| **PCT** | Post Cycle Therapy | The method to recover from an AAS cycle. |
+| **Pins** | Syringes / Needles |  |
+| **PIP** | Post Injection Pain | Pain felt in the area of an injection |
+| **RC** | Research Chemical | Drugs made for "research" purposes, very often highly underdosed |
+| **Subq** | Subcutaneous Injection | An injection that goes into the fatty tissue |
+| **Sust** | Sustanon |  |
+| **Sdrol** | Superdrol |  |
+| **Tbol** | Oral Turinabol |  |
+| **TDEE** | Total Daily Energy Expenditure | The average amount of energy you need to do your daily activities |
+| **Test** | Testosterone |  |
+| **Tren** | Trenbolone |  |
+| **TRT** | Testosterone Replacement Therapy | Using exogenous Test to mimic natural production levels |
+| **Var** | Anavar |  |
+| **VG** | Ventro Glute | A very common muscle in which to inject |
+| **Winny** | Winstrol |  | 
 
 ## Sharing Files & Photos to r/steroids
 
