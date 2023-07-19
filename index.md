@@ -10,7 +10,7 @@ The r/steroids Wiki provides a unique and comprehensive compendium of knowledge 
 
 Participation in this sub and with this habit requires one to execute [critical thinking](/critical_thinking.md) very well, to determine truth from falsehood. Practice daily for best results.
 
-#🎗TABLE OF CONTENTS
+## Table of Contents
 
 * [**The Community**](/index/subreddit_rules.md)
 * [**Overview / Index (This Page)**](/index.md)
