@@ -43,7 +43,6 @@ Getting involved in r/steroids and with AAS requires [critical thinking](/critic
 * [SteroidPlanner](https://www.steroidplanner.com/) - Plot and Graph your cycles
 * [SteroidPlotter](https://steroidplotter.com/) - Another option for graphing cycles
 * [HRT Calculator](http://hrtcalculator.weebly.com) - Peptide and HRT/TRT/Cycle Calculator
-* [Steroid Powder Calculator](http://www.basskilleronline.com/steroid-powder-calculator.html) - Help calculating homebrew recipes
 * [Fitness Calculators](https://www.calculator.net/fitness-and-health-calculator.html) - Basic fitness calculators (BMI, Calorie, etc.)
 * [TDEE Caldulator](https://www.calculator.net/tdee-calculator.html) - Basic TDEE calculator
 * [Lift Vault](https://www.liftvault.com) - Free workout programs and spreadsheets
