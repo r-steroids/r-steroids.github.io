@@ -1,0 +1,41 @@
+# 1-Testosterone Cypionate (Dihydroboldenone)
+
+**Chemical Structure:** 17beta-hydroxyandrost-1-en-3-one, 5alpha-androst-1-en-3-one, 17beta-ol  
+
+**Molecular Weight:**  
+
+**Active Life:** depends on the ester utilized  
+
+**Anabolic/Androgenic Ratio:** 200:100  
+
+Dihydroboldenone, most commonly known as 1-testosterone, is a 5alpha reduced form of the steroid boldenone. This lack of 5alpha reduction with the compound allows users to administer it without suffering the negative side effects associated with this chemical reaction but also eliminates the benefits as well. Boldenone is not the only steroid that shares similarities with dihydroboldenone. In fact dihydroboldenone is chemically identical to the drug methenolone except for the 1-methylation that is apart of methenolone (1). 1-methylation was of course added to methenolone to make it more available when taken orally and thus dihydroboldenone is not efficiently utilized when administered orally, although it was once sold over the counter in tablet and pill form. Some of these over the counter preparations of the drug were done utilizing a delivery system similar to Andriol, i.e. producing an oil-solubilized product with dihydroboldenone. This would still not be a relatively worthwhile system of delivery to use however if one wanted to maximize the potential of the compound. Intramuscular injection is by far the most efficient method of administration to use as with most anabolic steroids.
+
+As mentioned above, dihydroboldenone is structurally similar to methenolone and boldenone and less so to testosterone despite the commonly used name for it, 1-testosterone. For this reason some female athletes may be inclined to use the drug as well. The potential for development of symptoms of virilization still remain but are not as severe as with synthetic testosterone or other harsher drugs. This is not to say however that dihydroboldenone is a mild drug. To simplify the explanation of exactly what the drug is, it is to boldenone as dihydrotestosterone (DHT) is to testosterone. This would explain why the effects of the drug, both positive and negative, are so dissimilar to those of boldenone. Like testosterone and dihydrotestosterone, a portion of the boldenone that a user administers converts to dihydroboldenone. Also similarly, dihydroboldenone like dihydrotestosterone does not convert to anything else past that compound.
+
+Dihydroboldenone, while not overly androgenic, is a potent anabolic. It has been demonstrated that the drug binds extremely well and selectively to the androgen receptor and stimulates androgen receptor transactivation of dependent reporter genes (2, 3). This equates to a drug that possesses the ability to stimulate significant muscle growth while not producing androgenic side effects. It has been shown to be by far more anabolic than such compounds as boldenone, nandrolone, and even testosterone itself. Obviously this is of great benefit to many athletes.
+
+Anecdotally some users have indicated that post-injection pain with dihydroboldenone can become an issue for some. Diluting the drug with either another injectable drug or some other type of sterile oil seems to alleviate at least some of this discomfort. The type of ester used does not appear to negate this pain for the users that experience it however.
+
+Indeed dihydroboldenone is available in numerous different esters. Cypionate, Ethyl Carbonate, Propyl Carbonate, and Propionate, among others, are all available for use with the drug. As always each does not offer any real advantages over one another other then the obvious differing active lives that each presents and the amount of time that it takes for the body to completely eliminate the drug from it (4). For the most part users will want to have their choice dictated by the injection frequency with which they want to deal with when using the compound, but of course they will also likely be limited by those that are made available to them.
+
+## Use/Dosing
+
+As for the duration with which dihydroboldenone can be run, due to the mild nature of the drug extended use of the compound can be completed with little in the way of serious complications arising. There are no major issues with hepatoxicity or severe kidney stress and the effect it has on other vital health markers such as blood pressure is slight in the majority of users.
+
+As for specific dosages used with this drug, the low end is primarily thought to be three hundred to four hundred milligrams per week for male users. Like all drugs this number will vary from user to user and also depends on how much of a dramatic effect a user will want to achieve with the drug. As for the highest doses that would be worthwhile for users to attempt, this again depends on a number of variables. Doses of one gram per week are not uncommon for some users with others attempting doses in excess of this. It will always come back to how much one is willing to administer and at what point do the positives of increasing your doses begin to be outweighed by the negatives.
+
+For females the usual rules apply with dihydroboldenone as they do with other drugs. These are namely starting out with short esters if possible so that if side effects begin to become too severe discontinuation of the drug can begin immediately and low doses should be administered at the beginning of the cycle and can be increased once the tolerance of the user is gauged. Anywhere from twenty five to one hundred milligrams per week would be a good starting point for the majority of female users who have little to moderate experience with anabolic drugs.
+
+As stated earlier, for the frequency of dosing with dihydroboldenone it of course depends on the ester used with the compound. Seemingly the most popular current ester to produce the drug with is cypionate. No matter what ester utilized however the same rules would apply as with any other drug in terms of the frequency of administration needed to maintain relatively stable blood levels of the compound.
+
+## Risks/Side Effects
+
+As previously indicated dihydroboldenone does not aromatize and therefore estrogenic side effects such as gynecomastia and water retention are not a concern for users. This is partly due to the drug being incapable of 5alpha reduction. Also, androgenic side effects would also be extremely infrequent for most users as there is little in the way, in terms of attributes of the drug, to produce these. These include such things as acne and hair loss, although it appears to have the potential to cause prostate enlargement. This potential for prostate growth is actually similar in frequency and severity as with that of testosterone propionate (2).
+
+With the positive aspects of the lack of aromatization associated with dihydroboldenone also come the negative ones. Fortunately these are primarily limited to such symptoms as lethargy, malaise and possibly a reduction in sex drive. These are caused by a lower ratio of estrogen in comparison to androgens in the body. For the most part however this effect is relatively slight and can be avoided with the use of steroids that do aromatize in conjunction with dihydroboldenone and thus restore a better balance in terms of androgens versus estrogen.
+
+It also appears that the administration of dihydroboldenone may result in an increase in liver weight (2). This effect occurred when administering the drug orally but should also be true of the drug when administered via intramuscular injection. There is no research to indicate this however.
+
+Other common negative side effects associated with the use of anabolic/androgenic steroids are still relatively mild with the use of dihydroboldenone. Of course suppression of the natural testosterone production of users will occur like with all steroids, however other side effects such as an increase in blood pressure, acne and others are comparably mild and often times non-existent in users, at least as they are directly related to the administration of this drug.
+
+In terms of side effects for women, at moderate to heavy doses symptoms of virilization are likely. These can include such symptoms as clitoral enlargement, body hair growth and deepening of the voice. At lower doses however these side effects should not be a concern for the majority of potential female users.
