@@ -1,5 +1,5 @@
 ---
-id: overview
+id: index
 ---
 
 # Overview
