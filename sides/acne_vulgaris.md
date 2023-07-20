@@ -1,3 +1,7 @@
+---
+id: sides-acne
+---
+
 ## [Acne vulgaris](http://en.wikipedia.org/wiki/Acne) (Acne) 
 
 Acne is a condition that causes red bumps, commonly called pimples, to form on your skin.  Acne is generally caused by the pores of the skin becoming clogged and infected by [*Propionibacterium acnes*](http://en.wikipedia.org/wiki/Propionibacterium_acnes).  The [clogging](http://i.imgur.com/73v2Qir.jpg) of the pores can be due to overproduction of sebum by the [Sebaceous glands](http://en.wikipedia.org/wiki/Seborrhoea), and / or dead skin accumulation.

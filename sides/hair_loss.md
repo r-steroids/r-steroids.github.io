@@ -1,3 +1,7 @@
+---
+id: sides-hairloss
+---
+
 # Hair Loss [Under Construction]
 
 Pretty much any strong androgen or DHT compound will greatly increase risk of hairloss.

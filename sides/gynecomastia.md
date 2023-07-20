@@ -1,3 +1,7 @@
+---
+id: sides-gynecomastia
+---
+
 ##**[Gynecomastia](http://en.wikipedia.org/wiki/Gynecomastia)  (Gyno)**
 
 Gyno is the benign enlargement of breast tissue in males.  Most cases of gynecomastia are caused by excessive [estrogen](http://en.wikipedia.org/wiki/Estradiol) (aka: estradiol, E2) and are often the result of an increased ratio of estrogen to androgen.  There are two categories of gynecomastia.
