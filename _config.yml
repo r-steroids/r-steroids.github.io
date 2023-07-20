@@ -6,3 +6,8 @@ markdown: kramdown
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 sidebar:
   - overview
+    - overview-faq
+    - overview-rules
+  - planning
+    - cycles-injecting
+    - cycles-pct
