@@ -4,10 +4,12 @@ email: JuiceLoosener@protonmail.com
 # Build settings
 markdown: kramdown
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+search_enabled: true
 sidebar:
   - overview
-    - overview-faq
-    - overview-rules
-  - planning
-    - cycles-injecting
-    - cycles-pct
+  - cycles
+  - compounds
+  - estrogen
+  - sides
+  - bloodwork
+  - homebrew
