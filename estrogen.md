@@ -1,3 +1,7 @@
+---
+id: estrogen
+---
+
 # The Estrogen Handbook
 
 ## Gyno Mechanics

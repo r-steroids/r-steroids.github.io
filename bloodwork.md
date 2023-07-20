@@ -1,3 +1,7 @@
+---
+id: bloodwork
+---
+
 # Bloodwork
 
 If you're going to use anabolic steroids—or any type of performance enhancing compounds—it's important to run bloodwork at least three to four times per year. It's like getting your pool water checked to make sure there is the right amount of chemicals for it to stay clear and problem free, or checking the air pressure in your car's tires to ensure you don't have a blowout at high speed on the freeway. 

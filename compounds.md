@@ -1,3 +1,7 @@
+---
+id: compounds
+---
+
 ## Steroids Profiles, Androgenic and Anabolic Rating
 
 Anabolic steroids, technically known as anabolic-androgenic steroids (AAS), are drugs that are structurally related to the cyclic steroid ring system and have similar effects to testosterone in the body. They increase protein within cells, especially in skeletal muscles. 
