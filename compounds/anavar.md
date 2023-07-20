@@ -1,3 +1,7 @@
+---
+id: compounds-anavar
+---
+
 # Anavar (Oxandrolone)
 
 **Pharmaceutical Name:** Oxandrolone 

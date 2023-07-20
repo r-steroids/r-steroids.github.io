@@ -6,10 +6,13 @@ markdown: kramdown
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 search_enabled: true
 sidebar:
-  - overview
-  - cycles
-  - compounds
-  - estrogen
-  - sides
-  - bloodwork
-  - homebrew
+  - label: Getting Started
+    children:
+      - gettingstarted-index
+      - gettingstarted-rules
+      - gettingstarted-reading
+  - label: Compounds
+    children:
+      - compounds-index
+      - compounds-anadrol
+      - compounds-anavar

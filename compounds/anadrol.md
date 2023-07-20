@@ -1,3 +1,7 @@
+---
+id: compounds-anadrol
+---
+
 # Anadrol (Oxymetholone)
 
 **Chemical structure:** 17 beta-hydroxy-2-hydroxymethylene-17alpha-methyl-5 alpha-androstan-3-one 
