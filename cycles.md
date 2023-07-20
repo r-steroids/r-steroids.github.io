@@ -1,5 +1,5 @@
 ---
-id: cycles-planning
+id: cycles
 ---
 
 # The Cycle  
