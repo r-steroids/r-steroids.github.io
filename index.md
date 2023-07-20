@@ -1,14 +1,21 @@
+---
+id: overview
+---
+
 # Overview
 
-The r/steroids Wiki provides a unique and comprehensive compendium of knowledge on anabolic steroids, as well as specifics about our community, r/steroids, which is the largest steroid community in the English-speaking world. 
+The r/steroids wiki provides a unique and comprehensive compendium of knowledge on anabolic steroids, as well as specifics about our community, r/steroids, which is the largest steroid community in the English-speaking world. 
 
-*Please Read The [Community Goals, Responsibility, & Rules](/index/subreddit_rules.md) prior to posting or participation.*
+*Please Read The [Community Goals, Responsibility, & Rules](/index/subreddit_rules.md) prior to posting or participating.*
 
 ## Critical Thinking
 
 Getting involved in r/steroids and with AAS requires [critical thinking](/critical_thinking.md) to determine truth from falsehood. Practice daily for best results.
 
-## Table of Contents
+## Contents
+| [Site Map](#site-map) | [Helpful Links](#helpful-links) | [AAS Related Reading](#aas-related-reading) | [AAS Related Acronyms](#aas-related-acronyms) | [Sharing Photos & Files](#sharing-photos--files) | [What Are Steroids?](#what-are-steroids) | [Can I Do This Naturally?](#can-i-do-this-naturally) | [Why Young Men Should Not Take AAS](#why-young-men-should-not-take-aas) | [Women & AAS](#women--aas) | [Tips For Interpreting Scientific Studies](#tips-for-interpreting-scientific-studies) | [References](#references) |
+
+## Site Map
 
 ### [**The Community**](/index/subreddit_rules.md)
 
@@ -131,9 +138,9 @@ Getting involved in r/steroids and with AAS requires [critical thinking](/critic
 | **VG** | Ventro Glute | A very common muscle in which to inject |
 | **Winny** | Winstrol |  | 
 
-## Sharing Files & Photos to r/steroids
+## Sharing Photos & Files
 
-### Posting Progress Pictures to r/steroids
+### Posting Progress Pictures
 
 The community enjoys progress pictures. If you're going to post progress pictures, here is what we like to see.
 
