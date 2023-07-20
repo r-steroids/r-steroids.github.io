@@ -1,1 +1,0 @@
-Harm reduction focused discussions related to safe usage of AAS, TRT or hormone replacement with the exception of sourcing information.  Discussing sources will get you banned. Read the rules to learn how to become an approved submitter.
