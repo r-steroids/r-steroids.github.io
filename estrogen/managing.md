@@ -1,3 +1,7 @@
+---
+id: estrogen-managing
+---
+
 # Anti-Estrogens, Prolactin, & Gynecomastia
 
 Estrogen is commonly referred to as “E2”. Estrogens are made up of Estrone (E1), Estradiol (E2), and Estriol (E3) (though the one we’re concerned with is E2 specifically). It is fine to simply refer to these as Estrogen, but it’s more important that you know how to control your own and have a basic understanding of the topic.

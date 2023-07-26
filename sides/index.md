@@ -1,5 +1,5 @@
 ---
-id: sides
+id: sides-index
 ---
 
 # Side Effects

@@ -1,5 +1,5 @@
 ---
-id: estrogen
+id: estrogen-index
 ---
 
 # The Estrogen Handbook

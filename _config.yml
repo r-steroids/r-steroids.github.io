@@ -10,9 +10,53 @@ sidebar:
     children:
       - gettingstarted-index
       - gettingstarted-rules
+      - gettingstarted-faq
+      - gettingstarted-criticalthinking
+      - gettingstarted-medicaluses
+      - gettingstarted-laws
+      - gettingstarted-trt
+      - gettingstarted-women
+      - gettingstarted-nutrition
+      - gettingstarted-compoundexperiences
       - gettingstarted-reading
-  - label: Compounds
+      - gettingstarted-talkingpoints
+  - compounds-index
+  - label: Bloodwork
     children:
-      - compounds-index
-      - compounds-anadrol
-      - compounds-anavar
+      - bloodwork-index
+      - bloodwork-healthmarkers
+  - label: Cycles
+    children:
+      - cycles-index
+      - cycles-first
+      - cycles-injecting
+      - cycles-ai
+      - cycles-health
+      - cycles-pct
+      - cycles-examples
+      - cycles-powerlifting
+      - cycles-postingguidelines
+      - cycles-reports-index
+  - label: Estrogen
+    children:
+      - estrogen-index
+      - estrogen-managing
+      - estrogen-prolactin
+  - label: Side Effects
+    children:
+      - sides-index
+      - sides-acne
+      - sides-estrogen
+      - sides-fertility
+      - sides-gynecomastia
+      - sides-hairloss
+      - sides-hepatoxicity
+      - sides-hptashutdown
+      - sides-lvh
+      - sides-respiratorycapacity
+  - label: Homebrewing
+    children:
+      - homebrew-index
+      - homebrew-antimicrobials
+      - homebrew-carrieroils
+      - homebrew-solvents

@@ -1,5 +1,5 @@
 ---
-id: gettingstarted-postingguidelines
+id: cycles-postingguidelines
 ---
 
 # Posting Guidelines

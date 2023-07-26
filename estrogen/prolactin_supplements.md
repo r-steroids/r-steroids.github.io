@@ -1,3 +1,7 @@
+---
+id: estrogen-prolactin
+---
+
 # Prolactin-Inhibiting Supplements
 
 **Primary Prolactin-Inhibiting Supplements:**

@@ -1,3 +1,7 @@
+---
+id: homebrew-solvents
+---
+
 # Solvents 
 *****
 

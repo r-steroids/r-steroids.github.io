@@ -1,5 +1,5 @@
 ---
-id: bloodwork
+id: bloodwork-index
 ---
 
 # Bloodwork

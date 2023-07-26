@@ -1,5 +1,5 @@
 ---
-id: cycles
+id: cycles-index
 ---
 
 # The Cycle  

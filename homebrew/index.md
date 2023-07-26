@@ -1,5 +1,5 @@
 ---
-id: homebrew
+id: homebrew-index
 ---
 
 # Homebrew
