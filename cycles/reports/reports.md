@@ -1,5 +1,6 @@
 ---
 id: cycles-reports-index
+title: Reports
 ---
 
 # Create a cycle report!
