@@ -4,7 +4,11 @@ email: JuiceLoosener@protonmail.com
 # Build settings
 markdown: kramdown
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
 search_enabled: true
+search:
+  rel_url: true
+
 sidebar:
   - label: Overview
     children:
