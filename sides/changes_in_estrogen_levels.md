@@ -1,5 +1,6 @@
 ---
 id: sides-estrogen
+title: High/Low Estrogen
 ---
 
 # Changes In Estrogen Levels

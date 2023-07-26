@@ -1,5 +1,6 @@
 ---
 id: homebrew-solvents
+title: Solvents
 ---
 
 # Solvents 

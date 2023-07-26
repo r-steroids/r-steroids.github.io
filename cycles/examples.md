@@ -1,5 +1,6 @@
 ---
 id: cycles-examples
+title: Example Cycles
 ---
 
 # Example Cycles

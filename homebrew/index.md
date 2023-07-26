@@ -1,5 +1,6 @@
 ---
 id: homebrew-index
+title: Homebrewing
 ---
 
 # Homebrew

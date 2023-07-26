@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-nutrition
+title: Nutrition
 ---
 
 # Nutrition

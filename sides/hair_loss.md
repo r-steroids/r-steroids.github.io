@@ -1,5 +1,6 @@
 ---
 id: sides-hairloss
+title: Hair Loss
 ---
 
 # Hair Loss [Under Construction]

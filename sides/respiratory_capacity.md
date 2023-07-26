@@ -1,5 +1,6 @@
 ---
 id: sides-respiratorycapacitiy
+title: Reduced Respiratory Function
 ---
 
 Original thread: http://www.reddit.com/r/steroids/comments/1yqrwk/results_beating_the_cardiovascular_impact_of/

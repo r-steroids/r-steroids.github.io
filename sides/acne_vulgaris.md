@@ -1,5 +1,6 @@
 ---
 id: sides-acne
+title: Acne
 ---
 
 ## [Acne vulgaris](http://en.wikipedia.org/wiki/Acne) (Acne) 

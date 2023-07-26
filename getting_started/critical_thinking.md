@@ -1,6 +1,7 @@
 
 ---
 id: gettingstarted-criticalthinking
+title: Critical Thinking
 ---
 
 # Critical Thinking

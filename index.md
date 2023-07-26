@@ -1,5 +1,6 @@
 ---
 id: index
+title: r/steroids Wiki
 ---
 
 # Overview

@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-compoundexperiences
+title: Compound Experiences
 ---
 
 # Compound Experience Directory

@@ -1,5 +1,6 @@
 ---
 id: bloodwork-index
+title: Getting Bloodwork
 ---
 
 # Bloodwork

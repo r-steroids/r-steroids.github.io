@@ -1,10 +1,11 @@
 ---
 id: cycles-postingguidelines
+title: Posting a Cycle Report
 ---
 
 # Posting Guidelines
 
-## Cycle Reviews
+## Cycle Reports
 
 **I want to make a post for a cycle critique, is there a certain format**
 

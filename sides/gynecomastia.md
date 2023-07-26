@@ -1,5 +1,6 @@
 ---
 id: sides-gynecomastia
+title: Gynecomastia
 ---
 
 ##**[Gynecomastia](http://en.wikipedia.org/wiki/Gynecomastia)  (Gyno)**

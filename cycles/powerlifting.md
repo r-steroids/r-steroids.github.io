@@ -1,5 +1,6 @@
 ---
 id: cycles-powerlifting
+title: Powerlifting Cycles
 ---
 
 This is an excerpt from a spreadsheet detailing the protocol for the testers of Brandon Lilly's Cube Method. This is a very long post, and I don't know how to link you the excel file besides an email, I thought it might be helpful to see Lilly's approach:

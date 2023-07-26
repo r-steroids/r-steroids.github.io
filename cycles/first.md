@@ -1,5 +1,6 @@
 ---
 id: cycles-first
+title: Your First Cycle
 ---
 
 # Your First Cycle

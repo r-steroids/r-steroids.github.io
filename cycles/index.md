@@ -1,5 +1,6 @@
 ---
 id: cycles-index
+title: Cycle Planning
 ---
 
 # The Cycle  

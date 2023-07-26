@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-faq
+title: Frequently Asked Questions
 ---
 
 # Frequently Asked Questions (FAQ)

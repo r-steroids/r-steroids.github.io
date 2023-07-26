@@ -1,5 +1,6 @@
 ---
 id: sides-index
+title: General
 ---
 
 # Side Effects

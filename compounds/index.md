@@ -1,5 +1,6 @@
 ---
 id: compounds-index
+title: Compounds
 ---
 
 # Compounds

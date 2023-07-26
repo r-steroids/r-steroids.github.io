@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-index
+title: Getting Started
 ---
 
 # Getting Started

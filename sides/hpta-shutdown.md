@@ -1,5 +1,6 @@
 ---
 id: sides-hptashutdown
+title: HPTA Shutdown
 ---
 
 http://www.reddit.com/r/steroids/comments/1v8qw9/natural_test_inhibition_vs_testicular_atrophy/

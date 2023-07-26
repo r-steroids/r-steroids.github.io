@@ -1,5 +1,6 @@
 ---
 id: cycles-injecting
+title: Injections
 ---
 
 # Safe Injections

@@ -1,5 +1,6 @@
 ---
 id: sides-hepatotoxicity
+title: Liver Damage
 ---
 
 # Hepatotoxicity

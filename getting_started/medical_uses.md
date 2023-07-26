@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-medicaluses
+title: Medical Uses
 ---
 
 # Medicinal Use of AAS

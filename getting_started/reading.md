@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-reading
+title: Reading
 ---
 
 ### Books and Publications

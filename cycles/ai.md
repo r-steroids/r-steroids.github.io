@@ -1,5 +1,6 @@
 ---
 id: cycles-ai
+title: Managing Estrogen
 ---
 
 # Estrogen

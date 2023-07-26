@@ -1,5 +1,6 @@
 ---
 id: sides-lvh
+title: Left Ventricular Hypertrophy
 ---
 
 Taken from: http://www.reddit.com/r/steroids/comments/1ggw9a/aas_use_and_hypertrophic_cardiomyopathy/

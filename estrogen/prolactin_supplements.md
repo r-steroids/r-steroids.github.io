@@ -1,5 +1,6 @@
 ---
 id: estrogen-prolactin
+title: Prolactin
 ---
 
 # Prolactin-Inhibiting Supplements

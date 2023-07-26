@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-trt
+title: TRT
 ---
 
 # Testosterone Replacement Therapy (TRT)

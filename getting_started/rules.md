@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-rules
+title: Community Rules
 ---
 
 # Community Rules

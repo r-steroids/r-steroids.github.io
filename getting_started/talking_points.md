@@ -1,5 +1,6 @@
 ---
 id: gettingstarted-talkingpoints
+title: Talking Points
 ---
 
 /u/MittRomneysCampaign wrote ([original](/r/steroids/comments/3bz0o7/you_guys_and_girls_may_be_interested_in_how_i/)):

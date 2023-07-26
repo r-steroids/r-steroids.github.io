@@ -1,5 +1,6 @@
 ---
 id: homebrew-carrieroils
+title: Carrier Oils
 ---
 
 # Carrier Oils

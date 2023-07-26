@@ -1,5 +1,6 @@
 ---
 id: estrogen-managing
+title: Managing Estrogen
 ---
 
 # Anti-Estrogens, Prolactin, & Gynecomastia
