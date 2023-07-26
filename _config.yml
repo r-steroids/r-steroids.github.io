@@ -5,9 +5,8 @@ email: JuiceLoosener@protonmail.com
 markdown: kramdown
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
-search_enabled: true
-search:
-  rel_url: true
+search_enabled: false
+use_custom_search: true
 
 sidebar:
   - label: Overview
