@@ -1,4 +1,3 @@
-
 ---
 id: gettingstarted-criticalthinking
 title: Critical Thinking
