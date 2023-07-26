@@ -1,12 +1,14 @@
 title: r/steroids wiki
 email: JuiceLoosener@protonmail.com
 
+url: https://r-steroids.github.io
+baseurl: /wiki
+
 # Build settings
 markdown: kramdown
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
-search_enabled: false
-use_custom_search: true
+search_enabled: true
 
 sidebar:
   - label: Overview
